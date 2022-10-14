@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-task",
+  "version": "1.0.0",
+  "description": "Intro to NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Marv",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
